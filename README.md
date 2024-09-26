@@ -1,4 +1,4 @@
-# Learn-C-
+# Learn-C++
 Try to learn C++ from scratch !
 
 1. First program : Helloword.cpp >> print "Hello World!" >> OK !
